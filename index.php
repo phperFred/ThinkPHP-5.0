@@ -1,4 +1,5 @@
 <?php
-	echo 'index.php';
-	echo "local add";
+echo 'index.php';
+echo "local add";
+echo "test";
 ?>
